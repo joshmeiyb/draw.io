@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T08:52:18.500Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="xDuhZeHHnU6BFNMGQSnY" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T08:55:14.136Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="QJMtq307CcLQN8j5Xnmw" version="16.5.6" type="github">
   <diagram id="YD-U70I8awbXt-79FAHw" name="Page-1">
-    <mxGraphModel dx="826" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1003" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,6 +337,52 @@
             <Array as="points">
               <mxPoint x="590" y="350" />
               <mxPoint x="590" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6nmPjCU_6RG-IFTGdHf-85" value="Oper[2:0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="350" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c6nmPjCU_6RG-IFTGdHf-87" value="" style="endArrow=none;html=1;rounded=0;exitX=1.038;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=6;" edge="1" parent="1" source="c6nmPjCU_6RG-IFTGdHf-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="410" as="sourcePoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6nmPjCU_6RG-IFTGdHf-89" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=-0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="c6nmPjCU_6RG-IFTGdHf-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="360" as="sourcePoint" />
+            <mxPoint x="690" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6nmPjCU_6RG-IFTGdHf-91" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=-0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="470" as="sourcePoint" />
+            <mxPoint x="850" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="530" />
+              <mxPoint x="470" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6nmPjCU_6RG-IFTGdHf-92" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=-0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="580" as="sourcePoint" />
+            <mxPoint x="790" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c6nmPjCU_6RG-IFTGdHf-93" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=-0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="680" as="sourcePoint" />
+            <mxPoint x="790" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
